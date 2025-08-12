@@ -1,0 +1,6 @@
+name = "youtube-proxy"
+main = "index.js"
+compatibility_date = "2025-08-12"
+
+[vars]
+# you can set environment variables here if needed
